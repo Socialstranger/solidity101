@@ -1,0 +1,8 @@
+node_modules/
+
+node_modules
+
+artifacts/
+cache/
+Hospital_sol_Hospital.abi
+Hospital_sol_Hospital.bin
